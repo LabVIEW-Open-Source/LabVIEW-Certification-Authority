@@ -12,15 +12,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Generate Self-Signed Certificates.vi" Type="VI" URL="../source/Generate Self-Signed Certificates.vi"/>
-		<Item Name="LVOS Certificates Folder.vi" Type="VI" URL="../source/LVOS Certificates Folder.vi"/>
-		<Item Name="algorithm -- enum.ctl" Type="VI" URL="../source/algorithm -- enum.ctl"/>
-		<Item Name="certificate -- cluster.ctl" Type="VI" URL="../source/certificate -- cluster.ctl"/>
-		<Item Name="certificate signature request (CA) -- cluster.ctl" Type="VI" URL="../source/certificate signature request (CA) -- cluster.ctl"/>
-		<Item Name="certificate signature request (Server) -- cluster.ctl" Type="VI" URL="../source/certificate signature request (Server) -- cluster.ctl"/>
-		<Item Name="encryption key -- cluster.ctl" Type="VI" URL="../source/encryption key -- cluster.ctl"/>
-		<Item Name="initca -- cluster.ctl" Type="VI" URL="../source/initca -- cluster.ctl"/>
-		<Item Name="name types -- enum.ctl" Type="VI" URL="../source/name types -- enum.ctl"/>
+		<Item Name="Certification Authority" Type="Folder">
+			<Item Name="Certification Authority.lvclass" Type="LVClass" URL="../source/Certification Authority/Certification Authority.lvclass"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Build Error Cluster__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/error/error.llb/Build Error Cluster__ogtk.vi"/>
