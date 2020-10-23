@@ -16,7 +16,7 @@
 	<Item Name="Certification Authority.ctl" Type="Class Private Data" URL="Certification Authority.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="algorithm -- enum.ctl" Type="VI" URL="../../algorithm -- enum.ctl">
+	<Item Name="algorithm -- enum.ctl" Type="VI" URL="../algorithm -- enum.ctl">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"&gt;!!!!!1"6!0%!!!!!!!!!!B^$:8*U;7:J9W&amp;U;7^O)%&amp;V&gt;'BP=GFU?3ZM&gt;G.M98.T&amp;7&amp;M:W^S;82I&lt;3!N,3"F&lt;H6N,G.U&lt;!!81"9!!16F9W2T91!%97RH&lt;Q!!!1!!!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
@@ -25,7 +25,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 	</Item>
-	<Item Name="certificate -- cluster.ctl" Type="VI" URL="../../certificate -- cluster.ctl">
+	<Item Name="certificate -- cluster.ctl" Type="VI" URL="../certificate -- cluster.ctl">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#.!!!!"!!/1$$`````"'.F=H1!!!R!-0````]$9X.S!!R!-0````]$;W6Z!&amp;]!]1!!!!!!!!!#(U.F=H2J:GFD982J&lt;WYA186U;'^S;82Z,GRW9WRB=X-;9W6S&gt;'FG;7.B&gt;'5A,3UA9WRV=X2F=CZD&gt;'Q!(%"1!!-!!!!"!!),1W6S&gt;'FG;7.B&gt;'5!!1!$!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
@@ -34,7 +34,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 	</Item>
-	<Item Name="certificate signature request (CA) -- cluster.ctl" Type="VI" URL="../../certificate signature request (CA) -- cluster.ctl">
+	<Item Name="certificate signature request (CA) -- cluster.ctl" Type="VI" URL="../certificate signature request (CA) -- cluster.ctl">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;'!!!!#A!-1$$`````!E./!!!31$$`````#'BP=X2O97VF!!!31%!!!@````]!!16I&lt;X.U=Q!/1$$`````"'&amp;M:W]!!!N!"Q!%=WF[:1!!/!$R!!!!!!!!!!%&gt;:7ZD=HFQ&gt;'FP&lt;C"L:8EA,3UA9WRV=X2F=CZD&gt;'Q!%E"1!!)!!Q!%!WNF?1!.1!5!"X"B&gt;'BM:7Y!%%!Q`````Q:F?("J=HE!!$!!]1!!!!!!!!!"&amp;7FO;82D93!N,3"D&lt;(6T&gt;'6S,G.U&lt;!!31&amp;!!!A!'!!=#9W%!!(!!]1!!!!!!!!!#(U.F=H2J:GFD982J&lt;WYA186U;'^S;82Z,GRW9WRB=X-R9W6S&gt;'FG;7.B&gt;'5A=WFH&lt;G&amp;U&gt;8*F)(*F=86F=X1A+%."+3!N,3"D&lt;(6T&gt;'6S,G.U&lt;!!71&amp;!!"!!!!!)!"1!)!U.45A!"!!E!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
@@ -43,7 +43,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 	</Item>
-	<Item Name="certificate signature request (Server) -- cluster.ctl" Type="VI" URL="../../certificate signature request (Server) -- cluster.ctl">
+	<Item Name="certificate signature request (Server) -- cluster.ctl" Type="VI" URL="../certificate signature request (Server) -- cluster.ctl">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$\!!!!"Q!-1$$`````!E./!!!31$$`````#'BP=X2O97VF!!!31%!!!@````]!!16I&lt;X.U=Q!/1$$`````"'&amp;M:W]!!!N!"Q!%=WF[:1!!/!$R!!!!!!!!!!%&gt;:7ZD=HFQ&gt;'FP&lt;C"L:8EA,3UA9WRV=X2F=CZD&gt;'Q!%E"1!!)!!Q!%!WNF?1"S!0%!!!!!!!!!!B^$:8*U;7:J9W&amp;U;7^O)%&amp;V&gt;'BP=GFU?3ZM&gt;G.M98.T.7.F=H2J:GFD982F)(.J:WZB&gt;(6S:3"S:8&amp;V:8.U)#B4:8*W:8)J)#UN)'.M&gt;8.U:8)O9X2M!"2!5!!$!!!!!A!&amp;!U.45A!"!!9!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
@@ -52,7 +52,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 	</Item>
-	<Item Name="Certification Authority.vi" Type="VI" URL="../../Certification Authority.vi">
+	<Item Name="Certification Authority.vi" Type="VI" URL="../Certification Authority.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"A!!!!!A!%!!!!6!$Q!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$!!"Y!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!"!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">1073742080</Property>
@@ -61,7 +61,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1074278928</Property>
 	</Item>
-	<Item Name="encryption key -- cluster.ctl" Type="VI" URL="../../encryption key -- cluster.ctl">
+	<Item Name="encryption key -- cluster.ctl" Type="VI" URL="../encryption key -- cluster.ctl">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"Z!!!!!Q!/1$$`````"'&amp;M:W]!!!N!"Q!%=WF[:1!!7!$R!!!!!!!!!!)@1W6S&gt;'FG;7.B&gt;'FP&lt;C""&gt;82I&lt;X*J&gt;(EO&lt;(:D&lt;'&amp;T=RVF&lt;G.S?8"U;7^O)'NF?3!N,3"D&lt;(6T&gt;'6S,G.U&lt;!!31&amp;!!!A!!!!%$;W6Z!!%!!A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
@@ -70,7 +70,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 	</Item>
-	<Item Name="initca -- cluster.ctl" Type="VI" URL="../../initca -- cluster.ctl">
+	<Item Name="initca -- cluster.ctl" Type="VI" URL="../initca -- cluster.ctl">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"V!!!!!Q!.1!5!"X"B&gt;'BM:7Y!%%!Q`````Q:F?("J=HE!!&amp;!!]1!!!!!!!!!#(U.F=H2J:GFD982J&lt;WYA186U;'^S;82Z,GRW9WRB=X-6;7ZJ&gt;'.B)#UN)'.M&gt;8.U:8)O9X2M!"*!5!!#!!!!!1*D91!!!1!#!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
@@ -79,7 +79,16 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 	</Item>
-	<Item Name="LVOS Certificates Folder.vi" Type="VI" URL="../../LVOS Certificates Folder.vi">
+	<Item Name="Inspect Certificate.vi" Type="VI" URL="../Inspect Certificate.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$'!!!!"Q!%!!!!$E!Q`````Q25?8"F!!!91$$`````$E2F9W^E:71A5X2S;7ZH!!!+!&amp;!!!A!"!!)!'E"!!!(`````!!--1W6S&gt;'FG;7.B&gt;'6T!!!=1$$`````%E.F=H2J:GFD982F)(.U=GFO:Q!!6!$Q!!Q!!!!!!!!!"!!!!!!!!!!!!!!!!!!!!!5$!!"Y!!!!!!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1I!!!!!!1!'!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710290</Property>
+	</Item>
+	<Item Name="LVOS Certificates Folder.vi" Type="VI" URL="../LVOS Certificates Folder.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#1!!!!"!!%!!!!&amp;%!S`````QJD:H.T&lt;#"Q982I!!!=1$,`````%U.F=H2J:GFD982F=S"'&lt;WRE:8)!6!$Q!!Q!!!!"!!!!!A!!!!!!!!!!!!!!!!!!!!!$!!"Y!!!!!!!!#1!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!$!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -88,7 +97,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
 	</Item>
-	<Item Name="name types -- enum.ctl" Type="VI" URL="../../name types -- enum.ctl">
+	<Item Name="name types -- enum.ctl" Type="VI" URL="../name types -- enum.ctl">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"K!!!!!1"C!0%!!!!!!!!!!B^$:8*U;7:J9W&amp;U;7^O)%&amp;V&gt;'BP=GFU?3ZM&gt;G.M98.T&amp;GZB&lt;75A&gt;(FQ:8-A,3UA:7ZV&lt;3ZD&gt;'Q!)U!7!!9"1Q&amp;-!5]#4V5#5V1&amp;25V"35Q!"'ZB&lt;75!!!%!!!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
